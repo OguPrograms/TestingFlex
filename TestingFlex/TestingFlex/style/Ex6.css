@@ -1,0 +1,15 @@
+section{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+div{
+    height: 144px;
+    width: 24%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.color5{
+    width: 100vw;
+}
