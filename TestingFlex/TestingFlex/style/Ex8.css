@@ -1,0 +1,16 @@
+section{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 8px;
+    height: 100%;
+}
+div{
+    height: 24%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#element9{
+    height: 100%;
+}
